@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ZJL817923.github.io</id>
     <title>Aurora Crush</title>
-    <updated>2020-04-04T04:23:53.813Z</updated>
+    <updated>2020-04-04T07:54:32.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ZJL817923.github.io"/>
     <link rel="self" href="https://ZJL817923.github.io/atom.xml"/>
@@ -11,12 +11,25 @@
     <icon>https://ZJL817923.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Aurora Crush</rights>
     <entry>
-        <title type="html"><![CDATA[1111]]></title>
-        <id>https://ZJL817923.github.io/post/1111/</id>
-        <link href="https://ZJL817923.github.io/post/1111/">
+        <title type="html"><![CDATA[平凡的人]]></title>
+        <id>https://ZJL817923.github.io/post/ping-fan-de-ren/</id>
+        <link href="https://ZJL817923.github.io/post/ping-fan-de-ren/">
         </link>
-        <updated>2020-04-04T04:04:51.000Z</updated>
-        <content type="html"><![CDATA[<p>22222222222222222222222222</p>
+        <updated>2020-04-04T07:27:57.000Z</updated>
+        <content type="html"><![CDATA[<p>人来到这个世界上后应该干什么？<br>
+我想应该是去体验这个世界，<br>
+去聆听，去感受这个世界。<br>
+为什么要去体验这个世界？<br>
+因为你要在这个世界上呆上很久<br>
+恰好这个世界又很大<br>
+你不知道什么时候会结束旅程<br>
+所以要去最大程度的体验<br>
+以便不抱有任何的遗憾。</p>
+<p>无法完成的目标才是我的目标，<br>
+迂回曲折的路才是我想走的路，<br>
+而每次的歇息，<br>
+总是带着新的向往。<br>
+--赫尔曼·黑塞</p>
 ]]></content>
     </entry>
 </feed>
